@@ -1,0 +1,105 @@
+commit 6a0068ef6254d7bb2cb0880a8ffa3cd9e2b9da9d
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 15:45:06 2023 -0500
+
+    Agregando 2 parrafos
+
+commit e1f9e5397b4c377f06a89bcc10017a13f7d6b285
+Merge: 8647a7c 585e472
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 15:36:58 2023 -0500
+
+    Resolviendo conflictos de  estaciones del año con fechas de inicio
+
+commit 8647a7c8d8b0e2d111cf9e090ca20dbd16cd0783
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 12:41:46 2023 -0500
+
+    Agregando los estaciones del año con fechas de inicio
+
+commit 585e472e809655299f5431976e9a3c6240113122
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 12:41:46 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 3d55f7e8c5b681fb954e86c9825bb7ce878ea7cd
+Merge: ad9f553 538c74d
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 11:50:17 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html.
+
+commit 538c74d45838a22799ac5ea5205e827b66dce938
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 11:37:49 2023 -0500
+
+    Agregando index.js al index.html
+
+commit ad9f553904a95b2bd9259fe9a1b9b4e3748e709c
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 11:35:30 2023 -0500
+
+    add styles al html dede la rama principal.
+
+commit 19477644d8dc5d14511f3379fad746eae202c60d
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 11:34:20 2023 -0500
+
+    Estoy enrredada
+
+commit 5bcadcd1bb93c8b52825d7f333b6857353780300
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 11:29:22 2023 -0500
+
+    Agregando index.js a index.html
+
+commit 3c6792b5568a2e88d48d9cdee944dd7af50b6fb9
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Wed May 24 11:17:17 2023 -0500
+
+    Agregando slyles al html
+
+commit 133c434e5b3ded9cba1df0db501b4947453f4bdd
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Tue May 23 17:17:59 2023 -0500
+
+    Adicionando un js
+
+commit 5f647466c8975bb7b9cb1557f7075acb98efb340
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Tue May 23 17:10:26 2023 -0500
+
+    Creando archivo css
+
+commit 9363030c63552a5c50383c6a46b912bcc92dce55
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Tue May 23 17:04:58 2023 -0500
+
+    Creando index.html
+
+commit ad29e8c2180d451af5768f65e89519d602a1f9aa
+Author: KarenLC23 <134429121+KarenLC23@users.noreply.github.com>
+Date:   Tue May 23 15:23:01 2023 -0500
+
+    Create license.txt
+    
+    Licencia del repositorio
+
+commit f6b85b75e4ea97d6f51b9ffe618c87784acc989e
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Tue May 23 15:04:11 2023 -0500
+
+    Agregando contenido mas contenido al README
+
+commit 1698d835260d3714956866b584493197fbb06ed0
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Tue May 23 14:27:55 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit f24f7d6e38655dda4c23815565bc5eb93e59cc65
+Author: Karen Caicedo <klcaicedo93@gmail.com>
+Date:   Tue May 23 14:19:36 2023 -0500
+
+    Primer commit 😄
