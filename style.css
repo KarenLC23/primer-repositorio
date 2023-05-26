@@ -1,4 +1,16 @@
 html{
-    background-color: violet;
+    background-color: rgb(238, 174, 238);
     color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+a:hover{
+    color: rgb(157, 255, 0);
+}
+
+img{
+    max-width: 100%;
+    width: 50%;
+    height: 50%;
 }
